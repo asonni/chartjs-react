@@ -1,10 +1,10 @@
-## installation
+## Installation
 
 In the project directory, run:
 
 ### `npm install`
 
-And then
+And then.
 
 ### `npm start`
 
